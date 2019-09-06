@@ -4,4 +4,4 @@ This is a compiled and packaged version of FLIMage. The source code can be found
 
 This is provided "as is" for academic and educational use. 
 
-* For acquisition of data, contact Florida Lifetime Imaging LLC (info@lifetime-imaging.com).
+* For acquisition of data, you need to add commercial DLL configuration files. For support please contact Florida Lifetime Imaging LLC (info@lifetime-imaging.com). 
