@@ -4,7 +4,7 @@ This is a compiled and packaged version of FLIMage. The source code can be found
 
 * This is provided "as is" for academic and educational use.
 
-* For acquisition of data, you need to get commercial and licensed DLLs in the application folder. Please see source code page at https://github.com/ryoheiyasuda/FLIMage_public
+* For acquisition of data, you need to get commercial and licensed DLLs in the application folder. 
 
 * It is compiled in x64 configuration in "debug" mode. 
 
