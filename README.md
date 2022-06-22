@@ -13,7 +13,3 @@ This is a compiled and packaged version of FLIMage. The source code can be found
 * It is compiled in x64 configuration in "debug" mode. 
 
 * If you want support, please contact Florida Lifetime Imaging LLC (info@lifetime-imaging.com). 
-
-* Installation time should be ~1 min.
-
-* Manuals, sample scripts and data can be found in {Documents}/FLIMage/
