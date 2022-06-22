@@ -12,4 +12,4 @@ This is a compiled and packaged version of FLIMage. The source code can be found
 
 * Installation time should be ~1 min.
 
-* Several sample scripts and data can be found in {Documents}/FLIMage/
+* Manuals, sample scripts and data can be found in {Documents}/FLIMage/
